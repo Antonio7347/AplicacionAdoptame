@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   container: { flex: 1, justifyContent: "center", alignItems: "center", backgroundColor: "#f5f5f5" },
   title: { fontSize: 24, fontWeight: "bold", marginBottom: 20 },
   input: { width: "80%", height: 40, borderWidth: 1, marginVertical: 10, padding: 8, backgroundColor: "#fff", borderRadius: 8 },
-  button: { backgroundColor: "#007bff", padding: 12, borderRadius: 8, marginTop: 10 },
+  button: { backgroundColor: "#3f9b0b", padding: 12, borderRadius: 8, marginTop: 10 },
   buttonText: { color: "white", fontSize: 16, fontWeight: "bold" },
 });
 
